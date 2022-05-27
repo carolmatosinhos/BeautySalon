@@ -10,6 +10,6 @@ Você pode o visualizar em: https://anacaarooll.github.io/BeautySalon/
 Projeto responsivo para computador:
 ![](https://github.com/anacaarooll/BeautySalon/blob/main/github/beautysalon1.png)
 
-Projeto responsivo para celulares:
-<img src="https://github.com/anacaarooll/BeautySalon/blob/main/github/beautysalon2.png" height="850" width="350">
-<img src="https://github.com/anacaarooll/BeautySalon/blob/main/github/beautysalon3.png" height="850" width="350">
+Projeto responsivo para celulares: <br>
+<img src="https://github.com/anacaarooll/BeautySalon/blob/main/github/beautysalon2.png" height="700" width="300"> 
+<img src="https://github.com/anacaarooll/BeautySalon/blob/main/github/beautysalon3.png" height="700" width="300">
